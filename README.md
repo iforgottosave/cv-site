@@ -1,2 +1,2 @@
 # cv-site
- Basic CV site for learning web dev
+ Basic CV site
